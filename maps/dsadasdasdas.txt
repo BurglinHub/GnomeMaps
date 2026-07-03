@@ -1,0 +1,2 @@
+﻿META|dsadasdasdas|No description.|False|False||Antropomeda|1.0.0.0
+Abacus|0;0;0|0;0;0|3.5;3.5;3.5
