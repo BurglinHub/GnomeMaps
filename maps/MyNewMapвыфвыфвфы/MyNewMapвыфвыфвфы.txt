@@ -1,4 +1,0 @@
-﻿META|MyNewMapвыфвыфвфы|No description.|False|False||Antropomeda|1.0.0.0|Sandbox
-Airplane|0;2;0|0;0;0|1;1;1
-Abacus|0;2;0|0;0;0|1;1;1
-backpack Variant|-1.786767;365.3;0.5110414|0;0;0|1;1;1
