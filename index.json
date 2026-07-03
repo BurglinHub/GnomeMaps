@@ -1,17 +1,4 @@
 {
   "Maps": [
-    {
-      "Name": "выфвыфвыф",
-      "Description": "No description.",
-      "Author": "Antropomeda",
-      "MapCode": "",
-      "TxtUrl": "https://raw.githubusercontent.com/BurglinHub/GnomeMaps/main/maps/%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84/%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84.txt",
-      "PngUrl": "https://raw.githubusercontent.com/BurglinHub/GnomeMaps/main/maps/%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84/%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84%D0%B2%D1%8B%D1%84.png",
-      "Version": "1.0.0.0",
-      "LikedPlayers": "",
-      "TargetMode": "Sandbox",
-      "Likes": 0,
-      "Downloads": 1
-    }
   ]
 }
