@@ -1,3 +1,0 @@
-﻿META|вфывфывфы|No description.|False|False||Antropomeda|1.0.0.0|Sandbox|true
-Ryan Blend File|0;2;0|0;0;0|1;1;1
-Ryan Blend File|0;0;0|0;0;0|2.5;3;3
