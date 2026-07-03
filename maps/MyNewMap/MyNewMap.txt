@@ -1,3 +1,0 @@
-﻿META|MyNewMap|No description.|False|False||Antropomeda|1.0.0.0|Sandbox
-Airplane|0;2;0|0;0;0|1;1;1
-Abacus|0;2;0|0;0;0|1;1;1
