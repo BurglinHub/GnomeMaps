@@ -1,4 +1,18 @@
 {
   "Maps": [
+    {
+      "Name": "MyNewMap",
+      "Description": "No description.",
+      "Author": "Antropomeda",
+      "MapCode": "",
+      "TxtUrl": "https://raw.githubusercontent.com/BurglinHub/GnomeMaps/main/maps/MyNewMap/MyNewMap.txt",
+      "PngUrl": "",
+      "Version": "1.0.0.0",
+      "LikedPlayers": "",
+      "TargetMode": "Sandbox",
+      "AssetBundleUrl": "",
+      "Likes": 0,
+      "Downloads": 0
+    }
   ]
 }
